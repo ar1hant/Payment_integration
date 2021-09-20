@@ -1,5 +1,3 @@
-# Payment_integration
+# Payment Integration Website
 
 A Compact Payment Integration Site using Vanilla Js & Razorpay.
-
-## MADE BY ARIHANT DAGA
