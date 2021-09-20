@@ -30,7 +30,7 @@ a:hover {
 .heading,
 .about {
   padding: 20px;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: white;
   display: inline-block;
 }
@@ -58,12 +58,13 @@ a:hover {
   position: absolute;
   padding: 20px 20px 0;
   bottom: 20px;
-  font-size: 1.4rem;
+  font-size: 2rem;
   color: white;
 }
 
 h1 {
   font-family: monospace;
+  font-size: 2rem;
 }
 
 button {
@@ -74,4 +75,8 @@ button {
 #particles-js {
   background: #4177ad;
   height: 100vh;
+}
+
+form{
+  padding-top: 30px;
 }
