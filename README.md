@@ -1,3 +1,3 @@
 # Payment Integration Website
 
-A Compact Payment Integration Site using Vanilla Js & Razorpay.
+A Compact Payment Integration Site using ParticleJS & Razorpay.
